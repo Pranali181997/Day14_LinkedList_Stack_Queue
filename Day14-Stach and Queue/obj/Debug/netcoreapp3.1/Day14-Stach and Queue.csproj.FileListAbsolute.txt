@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\bin\Debug\netcoreapp3.1\Day14-Stach and Queue.exe
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\bin\Debug\netcoreapp3.1\Day14-Stach and Queue.deps.json
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\bin\Debug\netcoreapp3.1\Day14-Stach and Queue.runtimeconfig.json
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\bin\Debug\netcoreapp3.1\Day14-Stach and Queue.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\bin\Debug\netcoreapp3.1\Day14-Stach and Queue.dll
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\bin\Debug\netcoreapp3.1\Day14-Stach and Queue.pdb
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\obj\Debug\netcoreapp3.1\Day14-Stach and Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\obj\Debug\netcoreapp3.1\Day14-Stach and Queue.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\obj\Debug\netcoreapp3.1\Day14-Stach and Queue.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\obj\Debug\netcoreapp3.1\Day14-Stach and Queue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\obj\Debug\netcoreapp3.1\Day14-Stach and Queue.dll
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\obj\Debug\netcoreapp3.1\Day14-Stach and Queue.pdb
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\obj\Debug\netcoreapp3.1\Day14-Stach and Queue.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BATCH 111\Day14-Stach and Queue\Day14-Stach and Queue\obj\Debug\netcoreapp3.1\Day14-Stach and Queue.csproj.AssemblyReference.cache
